@@ -57,14 +57,12 @@ h1{
 	background-color:#c74444;
 	border-radius:28px;
 	border:1px solid #ab1818;
-	display:inline;
-	cursor:pointer;
+	/* cursor:pointer; */
 	color:#ffffff;
 	font-family:Arial;
 	font-size:17px;
 	padding: 0px 60px;
-    text-decoration:none;
-    position: relative;
-    left: 182px;
-    top: -49px;
+    /* text-decoration:none; */
+	/* position: relative; */
+	float: left;
 }
